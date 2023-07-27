@@ -1,2 +1,5 @@
-# GitHub_practice
-This is for brothers. This is our first reposityre
+This is a learning github project
+###############
+Summary: we are trying to learn Github with brothers. It is voluntary wor
+###############
+Summary: we are trying to learn Github with brothers. It is voluntary workk
